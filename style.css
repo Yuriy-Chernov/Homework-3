@@ -32,7 +32,8 @@ header span {
     padding: 60px 0;
     min-height: 100vh;
     display: flex;
-    justify-self:center;
+    align-items:center;
+
 }
 
 .main-section .wrapper {
@@ -127,7 +128,7 @@ flex-direction: column-reverse;
 }
 
 .skills {
-
+    gap: 20px;
 }
 
 .books-list {
